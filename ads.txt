@@ -1,4 +1,4 @@
-google.com, pub-6653055204129858, DIRECT, f08c47fec0942fa0
+google.com, pub-4486921957415792, DIRECT, f08c47fec0942fa0
 google.com, pub-6653055204129858, DIRECT, f08c47fec0942fa0
 
 #GameMonetize.com
